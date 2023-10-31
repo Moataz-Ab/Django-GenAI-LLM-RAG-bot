@@ -13,12 +13,12 @@ Once the project data is fed into the tool, the LLM model is prompted to provide
 
 - Utilizing LangChain open source framwork to create the LLM model
 - Using OpenAI API as our prompting channel
-- The user interface app is created using Flask web frame
+- The user interface app is created using Django web frame
 
 # Requirements
 - langchain
 - OpenAI
-- flask
+- Django
 - Pandas
 - pydantic==1.10.8
 
