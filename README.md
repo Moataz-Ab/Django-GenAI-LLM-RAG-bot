@@ -1,6 +1,6 @@
 # GenAI-LLM-RAG-bot
 
-In this work, we use Generative AI LLM modeling techniques to create a project management RAG system tool.
+In this work, Generative AI LLM modeling techniques are used to create a project management RAG system tool.
 RAG is a coloring system that assigns a color (Red, Amber, or Green) to each project task indicating its progress status.
 
 ![](img/app_snapshot.jpg)
