@@ -50,7 +50,7 @@ MIDDLEWARE = [
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
 ]
 
-ROOT_URLCONF = 'GenAI.urls'
+ROOT_URLCONF = 'system_config.urls'
 
 TEMPLATES = [
     {
@@ -68,7 +68,7 @@ TEMPLATES = [
     },
 ]
 
-WSGI_APPLICATION = 'GenAI.wsgi.application'
+WSGI_APPLICATION = 'system_config.wsgi.application'
 
 
 # Database

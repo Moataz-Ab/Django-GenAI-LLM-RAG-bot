@@ -1,18 +1,16 @@
 Task;Original budget;Spent budget;Starting date; Deadline date;Status;Recommendation
-1;20000;30000;2023-10-01; 2023-10-31;red;" ""The task is currently over budget and behind schedule. Here are three expert recommendations: 
-1. Conduct a thorough analysis of the reasons for the budget overrun and make necessary adjustments to prevent further overspending.
-2. Implement a strict timeline and task management system to ensure that all tasks are completed on time.
-3. Communicate with stakeholders and team members to manage expectations and address any potential issues that may arise."""
-2;15000;12500;2023-09-25;2023-11-01;green;" ""The current status of task 2 is on track and within budget. However, there are a few recommendations to ensure the task is completed successfully:""
-1. Monitor the progress closely to ensure that the remaining budget is allocated effectively and efficiently.
-2. Consider adjusting the timeline to allow for any unexpected delays or issues that may arise.
-3. Communicate regularly with the team to ensure everyone is aware of their roles and responsibilities, and address any potential roadblocks or concerns."""
-3;25000;19000;2023-08-15;2023-10-30;amber; It is recommended to closely monitor the remaining budget and make necessary adjustments to avoid exceeding the allocated amount. Additionally, it is important to regularly communicate with the team to ensure that all tasks are on track and any potential delays are addressed promptly. Lastly, it is advisable to review the project plan and make necessary adjustments to ensure that the task can be completed within the given timeline.
-4;18000;17000;2023-08-10;2023-12-01;red;" The task is behind schedule and over budget. It is recommended to take immediate action to get the project back on track. Here are three important aspects to consider:
-1. Schedule: The task is currently behind schedule, with only 2 months left until the deadline. It is important to review the project schedule and identify any potential delays or roadblocks. Adjustments may need to be made to the timeline in order to meet the deadline.
-2. Budget: The task has already spent 94% of the allocated budget, with 2 months still remaining. It is important to closely monitor the remaining budget and identify any areas where costs can be reduced in order to stay within the allocated amount.
-3. Resources: It is important to assess whether the current resources allocated to the task are sufficient to complete it on time and within budget. If necessary, additional resources may need to be allocated or reallocated in order to ensure the task is completed successfully."
-5;30000;15000;2023-10-05;2023-12-15;green;" ""Based on the current status of task 5, it is on track and within budget. However, there are a few recommendations to ensure its success:
-1. Monitor the progress closely and make sure that the remaining budget is allocated wisely to avoid any unexpected expenses.
-2. Keep an eye on the task's starting date and make sure that all necessary resources are available to start on time.
-3. Continuously communicate with the team and stakeholders to ensure everyone is on the same page and any potential issues are addressed promptly."""
+1;20000;7000;2023-11-01; 2023-12-31;green;" ""The task is currently on track and within budget. My recommendations are: 
+1. Monitor the budget closely to ensure that it stays within the allocated amount. 
+2. Keep track of the progress and make adjustments as needed to meet the deadline. 
+3. Communicate regularly with the team to ensure everyone is aware of their roles and responsibilities."""
+2;15000;10000;2023-12-25;2023-12-01;red;" ""The task is currently behind schedule and over budget. My recommendations are: 
+1. Re-evaluate the project plan and make necessary adjustments to ensure the task can be completed on time.
+2. Monitor the project closely and identify any potential risks or delays.
+3. Communicate with stakeholders about the current status of the task and any changes that may affect the overall project timeline."""
+3;25000;21000;2023-11-15;2023-12-30;green;" ""Based on the current status of the task, it is recommended to continue with the current budget allocation of 25000. However, it is important to closely monitor the remaining budget and make adjustments as needed. Additionally, it is recommended to focus on completing the task within the original deadline of 2023-12-30. To ensure successful completion, it is important to regularly review and update the project plan, communicate effectively with team members, and proactively address any potential risks or issues that may arise."""
+4;18000;12000;2023-11-10;2023-12-15;red;" ""The task is currently behind schedule and over budget. It is recommended to take immediate action to get the project back on track. Here are three expert advices: 1. Re-evaluate the project timeline and make necessary adjustments to ensure the task is completed on time. 2. Identify and address any potential roadblocks or delays that may have caused the task to fall behind schedule. 3. Review the budget and identify areas where costs can be cut or reallocated to stay within the allocated budget."""
+5;30000;14000;2023-10-05;2023-12-15;green;" ""Task 5 is currently on track and within budget. However, there are some areas that require attention to ensure its successful completion by the deadline."" 
++""1. Schedule: The task is currently on schedule, but it is important to regularly review and update the schedule to ensure that any potential delays are identified and addressed in a timely manner. This will help to prevent any last-minute rush and ensure that the task is completed on time."" 
++""2. Budget: With 14000 already spent, it is important to closely monitor the remaining budget to ensure that it is not exceeded. This can be done by regularly tracking expenses and identifying any potential cost-saving measures."" 
++""3. Communication: Regular communication with team members and stakeholders is crucial to keep everyone informed and on the same page. This will help to prevent any misunderstandings and ensure that the task is completed successfully."" 
+"
