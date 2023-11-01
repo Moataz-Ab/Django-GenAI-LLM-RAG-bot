@@ -12,7 +12,7 @@ Once the project data is fed into the tool, the LLM model is prompted to provide
 # Approach
 
 - Utilizing LangChain open source framwork to create the LLM model
-- Using OpenAI API as our prompting channel
+- Using OpenAI API as the prompting channel
 - The user interface app is created using Django web frame
 
 # Requirements
